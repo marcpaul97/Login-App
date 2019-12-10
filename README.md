@@ -1,39 +1,10 @@
 # Login-App
 Login App for Software Engineering
-{
-  
-    "member": [
-      {
-        "ID" : "123",
-        "firstName": "Alexander",
-        "lastName": "Giaquinto",
-      }, 
-      {
-        "ID" : "234",
-        "firstName" : "Michael",
-        "lastName" : "Chekeif",
-      },
-      {
-        "ID" : "345",
-        "firstName": "Emily",
-        "lastName": "Sutphen",
-      }, 
-      {
-        "ID" : "456",
-        "firstName" : "Marc",
-        "lastName" : "Paul",
-      },
-      {
-        "ID" : "567",
-        "firstName": "Rich",
-        "lastName": "Shaphazian",
-      }, 
-      {
-        "ID" : "678",
-        "firstName" : "Sam",
-        "lastName" : "Berardi",
+This application uses Swift in XCode, so you need to have a Mac product in order to view the code.
 
-      }
-    ],
-    
-}
+
+1. Open XCode, if you do not have XCode follow the steps below that are between 1 and 2.
+    a. Go to the App Store and type in Xcode
+    b. The app looks like a blueprint "A" with a hammer, click the download button
+    c. This app requires a lot of memory, and will take time to download 
+2. 
